@@ -42,8 +42,8 @@ disableImageOptimization = false
 
 [article]
   showDate = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = false
   showHero = true

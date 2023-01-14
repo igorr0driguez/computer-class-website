@@ -9,18 +9,16 @@ tags: []
 showHero: true
 heroStyle: background
 ---
-### Lorem Ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Fermentum leo vel orci.
+## Estou disponível para tirar suas dúvidas
+Você pode entrar em contato comigo de diversas formas:
+  
+- E-mail {{< icon "email" >}}: auladeinformatica@mailc.net
+- Telegram {{< icon "telegram" >}}: *contato do telegram*
+- WhatsApp {{< icon "whatsapp" >}}: *contato do whatsapp*
+- Instagram {{< icon "instagram" >}}: [@informatica.igor](https://www.instagram.com/informatica.igor/)
+- Twitter {{< icon "twitter" >}}: [@igorrodriguez_](https://twitter.com/igorrodriguez_)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Fermentum leo vel orci.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Fermentum leo vel orci.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Fermentum leo vel orci.
+#### O que você está esperando?
 
 {{< typeit 
   tag=h4

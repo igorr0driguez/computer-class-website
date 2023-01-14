@@ -11,7 +11,7 @@ heroStyle: background
 ---
 ## Trabalhos, projetos pessoais e contribuições Open-Source
 Um dos meus principais trabalhos atualmente é com edição de vídeo.
-<br>
+</br>
 Nesse trabalho utilizo o [DaVinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve/)
 e programas open-source como [GIMP](https://www.gimp.org/) e [Inkscape](https://inkscape.org/pt-br/).
 

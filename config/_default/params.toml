@@ -7,7 +7,7 @@
 
 colorScheme = "slate"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = true

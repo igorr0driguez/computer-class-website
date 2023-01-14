@@ -23,7 +23,7 @@ disableImageOptimization = false
   layout = "fixed" # valid options: basic, fixed
 
 [footer]
- # showMenu = true
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -34,8 +34,8 @@ disableImageOptimization = false
   homepageImage = "img/seth.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/paginas"
+#  showMoreLink = false
+#  showMoreLinkDest = "/paginas"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

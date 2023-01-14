@@ -41,12 +41,22 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Sobre"
+   pageRef = "sobre"
+   weight = 5
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+ [[footer]]
+   name = "Aulas"
+   pageRef = "aulas"
+   weight = 6
+   
+ [[footer]]
+   name = "Portfolio"
+   pageRef = "portfolio"
+   weight = 7
+   
+ [[footer]]
+   name = "Contato"
+   pageRef = "contato"
+   weight = 8
